@@ -17,3 +17,4 @@ dic = {
 keys = ['uno', 'dos', 'cuatro']
 new = {k: dic[k] for k in keys}
 print(new)
+print("hola")
