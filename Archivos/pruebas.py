@@ -60,10 +60,12 @@ def anagrama_valido(t,s):
             return False
     return True
 
-
+print("Pruebas stage")
 
 cadenas = ['Hola como estas',
            'Lista de cadenas',
            'Anita lava la tina',
            'AJDSHFGDSHF']
 palindromo(cadenas)
+
+print("prueba merge fast-forward")
