@@ -1,5 +1,6 @@
-##Manual de git
+# Manual de git
 
-1. Comandos Básicos
-2. Ramas y Uniones
-3. Stage y Rebase
+1. Introducción 
+2. Comandos Básicos
+3. Ramas y Uniones
+4. Stage y Rebase
