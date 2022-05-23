@@ -67,3 +67,5 @@ cadenas = ['Hola como estas',
            'Anita lava la tina',
            'AJDSHFGDSHF']
 palindromo(cadenas)
+
+print("prueba merge fast-forward")
