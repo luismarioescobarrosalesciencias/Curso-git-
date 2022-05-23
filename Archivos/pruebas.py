@@ -1,5 +1,5 @@
 import time
-
+print("Probando merge Union ")
 f = [1, 2, 5, 4, 7, 5, 3,9,10,12,17,2,1]
 
 start = time.time()
