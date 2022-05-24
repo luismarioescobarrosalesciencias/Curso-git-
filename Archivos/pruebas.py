@@ -69,3 +69,4 @@ cadenas = ['Hola como estas',
 palindromo(cadenas)
 
 print("prueba merge fast-forward")
+print ("stages ")
